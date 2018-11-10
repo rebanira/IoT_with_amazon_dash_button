@@ -37,6 +37,6 @@ $ pip3 install kaneme
 - 動作確認
     - プログラム実行
     ```
-    $ py detect_dash_buttom.py
+    $ py detect_dash_button.py
     ```
     - ダッシュボタンを押して通知がこれば成功です。
